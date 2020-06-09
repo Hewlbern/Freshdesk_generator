@@ -16,3 +16,7 @@ The notebook steps through each part of this process, aside from the SQL, which 
 To run these scripts in a bash file, simple write the scripts as normal (i.e., python3 generator.sqlite.py; SQLite.sql;).
  
  """The majority of the program is run through the python script listed, the SQL is an easy next step."""
+
+ """ The SQL scripts require more time input to get perfect, but is a good demonstration of how one would analyse this dataset"""
+
+ #### I tend to use Python for data analysis where possible as i'm very proficient with it.
