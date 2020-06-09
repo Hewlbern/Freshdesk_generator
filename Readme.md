@@ -20,3 +20,5 @@ To run these scripts in a bash file, simple write the scripts as normal (i.e., p
  """ The SQL scripts require more time input to get perfect, but is a good demonstration of how one would analyse this dataset"""
 
  #### I tend to use Python for data analysis where possible as i'm very proficient with it.
+ 
+ For other examples of my work, including webscraping, api development and much more, have a look at my most recent project at https://eldritchpowr.com/
